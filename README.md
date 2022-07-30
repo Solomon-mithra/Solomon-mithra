@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solomon-mithra
 - 👀 I’m interested in learning new coding languages. 
-- 🌱 I’m currently learning #react and #appian
+- 🌱 I’m currently learning #React and #RPA-Blue-Prism
 - 💞️ I’m looking to collaborate on any new and challenging project
 - 📫 Reach me by email - solomonmithra99@gmail.com
 
