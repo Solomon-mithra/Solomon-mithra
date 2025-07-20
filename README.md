@@ -7,11 +7,11 @@ I'm a full-stack developer with 3+ years of industry experience and an M.S. in C
 ---
 
 ## ⭐ Hightlights
-###Open-Source Contribution
-
-I'm glad to have contributed to the open-source community by shipping a fix that landed in Stylelint v16.21.1, a popular utility for stylelinting CSS.
+### Open-Source Contribution
+I'm glad to have contributed to the open-source community by shipping a small fix that landed in Stylelint v16.21.1, a popular utility for stylelinting CSS.
 - 11.3k ⭐ stars on the stylint GitHub repo.
   v16.21.1 release. https://github.com/stylelint/stylelint/releases/tag/16.21.1
+---
 
 ## 🧰 Tech Stack
 
