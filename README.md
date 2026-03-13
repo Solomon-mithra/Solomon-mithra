@@ -2,7 +2,7 @@
 > *Fueled by Coffee ☕️, Code with Curiosity💡
 
 
-### Building @[Gateia](https://gateia.co/)
+### Building @[Gateia](https://gateia.co/) @[Relevect](https://github.com/Solomon-mithra/relevect)
 The Deterministic Verification Layer for Enterprise AI
 
 
